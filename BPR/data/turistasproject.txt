@@ -1,0 +1,148 @@
+{
+    "description" : "Taj Mahal is one of the Seven Wonders of the World. It is situated on the bank of river yamuna in the city of Agra (India). Taj is a symbol of the great Mughal heritage of India. Taj Mahal monument is a symbol of the eternity of love. Experiencing Taj Mahal Monument is like a journey back to the magnificent Mughal Empire. It is simply the experession of emotions in a structural form. Taj Mahal is a monument of love. So, it's a place worth visiting to memorize the love in your life. The Taj Mahal monument was built by Mughal emperor Shah Jahan in 1631 as a tribute to his loving wife Mumtaz Mahal.",
+    "howtoreach" : "By Air
+The fastest way of reaching Taj Mahal, Agra is by air. The city of Taj, Agra, has its own airport that is around 7 km from the city center. Indian Airlines operates flights to Agra on a daily basis.
+
+By Rail
+There is a good network of trains connecting Agra with the rest of the country. Apart from the main railway station of Agra Cantonment, there are other two stations also, that of Raja-ki-Mandi and Agra Fort. The main trains connecting Agra with Delhi are Palace on Wheels, Shatabdi, Rajdhani, and Taj Express.
+
+By Road
+There are regular bus services from Agra to a number of important cities. The main bus stand of Idgah has a number of buses running for Delhi, Jaipur, Mathura, Fatehpur-Sikri, etc.",
+    "image" : "",
+    "latitude" : "27.1751",
+    "longitude" : "78.0421",
+    "name" : "Taj Mahal",
+    "ratings" : 5,
+    "specification" : "HistoricalPlace",
+    "view" : "The Taj Mahal is open from sunrise to sunset every day except Friday, but the absolute best time to go is right at sunrise. The building changes color as the sun rises above it and the jewels (individually placed by hand in the sandstone blocks) that decorate it’s exterior sparkle as they become covered in sunlight. You don’t want to miss this!",
+    "visited" : 1
+  },
+{
+    "description" : "Amber was once the capital of princely Jaipur state, and the fort the residence of its Rajput rulers. Maharaja Man Singh I, who led Mughal Emperor Akbar's army, commenced its construction in 1592 on the remains of an 11th-century fort. Successive rulers added to Amber Fort before moving the capital to Jaipur in 1727. The fort was declared a UNESCO World Heritage site in 2013, as part of a group of six hill forts in Rajasthan. Its architecture is a noteworthy fusion of Rajput (Hindu) and Mughal (Islamic) styles.",
+    "howtoreach" : "To reach Amber Fort from anywhere in Jaipur you can hire a taxi or a car. This will your journey more convenient. The public bus to Amber starts at Ajmeri Gate and MI Road which will take around twenty minutes to reach to Amber Fort.",
+    "image" : "",
+    "latitude" : "26.9855",
+    "longitude" : "26.9855",
+    "name" : "Amber Fort",
+    "ratings" : 5,
+    "specification" : "HistoricalPlace",
+    "view" : "Made out of sandstone and marble, Amber Fort consists of a series of four courtyards, palaces, halls, and gardens. At its entrance lies the primary courtyard, known as Jaleb Chowk. It's here that the king's soldiers assembled and paraded themselves around. Suraj Pol (Sun Gate) and Chand Pol (Moon Gate) lead into this courtyard.",
+    "visited" : 1
+  },
+{
+    "description" : "Devoted to the Sun God ‘Surya’, the prepossessing Konark Temple is the most spellbinding historic site in Odisha. The Kalinga architecture reflecting in its gigantic chariot, pillars and walls give the temple an Odiya touch.
+Also classified as ‘Black Pagoda’ by some European sailors, this UNESCO World Heritage site has also featured in the list of 7 Wonders of India.  The magnificent Khandolite rocks make the beauty of this temple even more alluring to the human eyes.",
+    "howtoreach" : "onark is 65kms from Bhubaneswar via pipili (approx 2 hours) and 35kms from Puri (approx. 1 hour) on marine drive road. Konark is connected by good all weather motorable roads. Regular Bus services are operating from Puri and Bhubaneswar. Besides Public transport Private tourist bus services and taxis are also available from Puri and Bhubaneswar. For internal transport, Auto rickshaws and Cycle rickshaws are available near Konark temple.",
+    "image" : "",
+    "latitude" : "19.8876",
+    "longitude" : "86.0945",
+    "name" : "Konark Temple",
+    "ratings" : 5,
+    "specification" : "HistoricalPlace",
+    "view" : "Being a coastal destination, the weather in Konark is the most pleasant during winters. The best time to visit this place is during the months of September-March. Summers are very hot and humid and should be avoided.",
+    "visited" : 1
+  },
+{
+    "description" : "Ladakh is known as the land of many monasteries. The town is located at the highest altitude in India. The topography of the surrounding land makes it the perfect place to go trekking and rafting.
+The famous Chadar Trek, which is a trek on a frozen river, takes place here. You can go rafting in the beautiful Zanskar Valley.",
+    "howtoreach" : "The easiest way to travel to Ladakh is by air. The nearest airport is Kushok Bakula Rimpochee Airport located in Leh. This airport is connected with many international airports in India like Delhi. It also receives flights from Srinagar, Jammu, Chandigarh and other common destinations in India. The airport is a military terminal and thus, the security is a bit strangling. It is important to have all your documents ready when you enter Ladakh via the airport. It is better to have a hard copy of your e-ticket.",
+    "image" : "",
+    "latitude" : "34.2996",
+    "longitude" : "78.2932",
+    "name" : "Ladakh",
+    "ratings" : 5,
+    "specification" : "AdventureAndHiking",
+    "view" : "If you’re planning to visit Leh Ladakh, then make your plans during the months of April-May as it is the best time to visit. During this time the temperature in Leh remains moderate and Srinagar is clear to commute. The travelers can explore most of the places to visit in Leh Ladakh during this time.list of some places in Leh Ladakh for a fantastic vacation.Zanskar Valley,Pangong Tso Lake,Kargil,Khardung-la Pass,Nubra Valley,Magnetic Hill.",
+    "visited" : 1
+  },
+{
+    "description" : "Surrounded by snow-clad peaks and dense cedar forests, Manali&rsquo;s busy Mall Road and quaint by-lanes of the old town&mdash;create an arresting mix of natural splendour and vibrancy. From families and solo travellers, luxury buffs to backpackers, Manali attracts a vast cross-section of visitors for most of the year. There&rsquo;s a range of places to stay at, a surfeit of restaurants and cafes, and a few short treks to keep you occupied. Make sure you have at least a few days handy to make sure you make the best of north India&rsquo;s favourite hill station",
+    "howtoreach" : "By Air
+You can reach this prominent hill station in Himachal by air. The nearest airport is Bhuntar, around 50 km from Manali. Kingfisher Airlines and Air India have flight services from Delhi, Chandigarh, Shimla and Leh to Bhuntar. Indian Airlines is another major operator. There are flight disruptions during monsoons. Kullu lies at a distance of 10 km from the airport.
+By Train
+Being a hilly region, there is no railway station in Manali. There are train services from Delhi to Jogindernagar and Pathankot. The distance from Pathankot to Kullu is around 285 km and from Jogindernagar around 126 km. There are railway stations at Shimla and Kalka for the convenience of tourists.",
+    "image" : "",
+    "latitude" : "32.2432",
+    "longitude" : "77.1892",
+    "name" : "Manali",
+    "ratings" : 5,
+    "specification" : "AdventureAndHiking",
+    "view" : "There’s a lot to choose from when it comes to the places to visit in Manali. Nestled amidst the majestic Pir-Panjal and the Dhauladhar Ranges, the hill town of Manali is an ideal getaway from city snarls. From the famous Hadimba Temple and the hot water springs of Vashisht to the Tibetan Centre Gadhan Thekchokling Gumpa, Manali is home to a myriad of charming experiences. Adrenaline addicts can also head to Solang Valley for paragliding, zorbing and skiing. From backpackers hanging out in the hippy villages to travellers indulging in adventurous activities, Manali has something or the other for all kinds of travellers.",
+    "visited" : 1
+  },
+{
+    "description" : "Surrounded by snow-clad peaks and dense cedar forests, Manali&rsquo;s busy Mall Road and quaint by-lanes of the old town&mdash;create an arresting mix of natural splendour and vibrancy. From families and solo travellers, luxury buffs to backpackers, Manali attracts a vast cross-section of visitors for most of the year. There&rsquo;s a range of places to stay at, a surfeit of restaurants and cafes, and a few short treks to keep you occupied. Make sure you have at least a few days handy to make sure you make the best of north India&rsquo;s favourite hill station",
+    "howtoreach" : "By Air
+You can reach this prominent hill station in Himachal by air. The nearest airport is Bhuntar, around 50 km from Manali. Kingfisher Airlines and Air India have flight services from Delhi, Chandigarh, Shimla and Leh to Bhuntar. Indian Airlines is another major operator. There are flight disruptions during monsoons. Kullu lies at a distance of 10 km from the airport.
+By Train
+Being a hilly region, there is no railway station in Manali. There are train services from Delhi to Jogindernagar and Pathankot. The distance from Pathankot to Kullu is around 285 km and from Jogindernagar around 126 km. There are railway stations at Shimla and Kalka for the convenience of tourists.",
+    "image" : "",
+    "latitude" : "32.2432",
+    "longitude" : "77.1892",
+    "name" : "Manali",
+    "ratings" : 5,
+    "specification" : "AdventureAndHiking",
+    "view" : "There’s a lot to choose from when it comes to the places to visit in Manali. Nestled amidst the majestic Pir-Panjal and the Dhauladhar Ranges, the hill town of Manali is an ideal getaway from city snarls. From the famous Hadimba Temple and the hot water springs of Vashisht to the Tibetan Centre Gadhan Thekchokling Gumpa, Manali is home to a myriad of charming experiences. Adrenaline addicts can also head to Solang Valley for paragliding, zorbing and skiing. From backpackers hanging out in the hippy villages to travellers indulging in adventurous activities, Manali has something or the other for all kinds of travellers.",
+    "visited" : 1
+  },
+{
+    "description" : "Situated 15 km from Panjim, Calangute Beach is the longest beach in North Goa, stretching from Candolim to Baga. Due to its sheer size and popularity, it is a hub for tourists and backpackers from all over the world.
+Popular as the "Queen of Beaches", the Calangute Beach of Goa is among the top ten bathing beaches in the world. Being one of the busiest and most commercial beaches of Goa, it is swarming with eating joints, shacks and clubs serving cocktails, beer and seafood. The Calangute Beach is also known for its water sports activities like parasailing, water surfing, banana ride and jet-skiing. While the days here are filled with beach fun, nights call for upbeat parties and letting your hair down. Calangute is also popular for staying in Goa as it keeps you well-connected to the other beaches in the north such as Baga, Anjuna, Candolim, Aguada and many more.",
+    "howtoreach" : "Calangute is one of the most popular beaches in North Goa and is well-connected with a wide range of transport options and roads.
+If you are coming in from Panjim, it is at a distance of 16 km and can be easily covered by a local transport bus or by hiring bikes or cars from Panjim.
+The Thivim Railway Station is also close, at about 19 km and a taxi from there would cost between INR 300 - 400.
+The Dabolim Airport is slightly farther away at a distance of about 39 km from Calangute. The drop from the airport to Calangute is likely to cost you approximately INR 1,200 - 2,000.",
+    "image" : "",
+    "latitude" : "15.5494",
+    "longitude" : "73.7535",
+    "name" : "calangute beach",
+    "ratings" : 5,
+    "specification" : "Beach",
+    "view" : "One of the most pursued activities here is parasailing in which the person is tied to a kite-like structure and is tugged behind a boat.
+Other interesting activities to be done here include some good old fishing, kayaking which is paddling through the water in a canoe-like boat, sailing, windsurfing which involves skimming the surface of the water in a boat-like structure called the windsurf, water snorkelling and water-skiing.
+You can also go for activities like spotting dolphins and crocodiles besides visiting the island for fishing or angling.",
+    "visited" : 1
+  },
+{
+    "description" : "Located in Kovalam (Southern Kerala), the Lighthouse Beach is known for the 35 metres tall Vizhinjam Lighthouse, located on the top of the Kurumkal hillock. The lighthouse is entirely made of stones and coloured in red and white bands. Visitors love to reach the top of this tall structure by using a spiral staircase to click some memorable photographs.
+Lighthouse beach is a perfect spot to enjoy water activities and sports, such as surfing, parasailing and paragliding. Travellers also like to play volleyball on the beach. The beach is also well known for its lush palm plantations and trees that dot the entire area. Easy accessibility, lip-smacking food and affordable lodging add to the charm of this place.",
+    "howtoreach" : "The Lighthouse Beach is situated close to Trivandrum, and thus reaching here is relatively easy. From Trivandrum, you can book a cab or take a local bus to reach the beach. It is also just 11 kilometres away from the railway station.",
+    "image" : "",
+    "latitude" : "43.3409",
+    "longitude" : "77.7645",
+    "name" : "lighthouse Beach",
+    "ratings" : 5,
+    "specification" : "Beach",
+    "view" : "The 30-metre tall Vizhinjam lighthouse is situated on the top of the palm-covered Kurumkal Hill and stands majestically overlooking the sea. The visit to the lighthouse is perhaps the most enjoyable part of the visit to this beautiful beach. One can climb the spiral staircase of 142 steps to reach the top of this huge structure and enjoy panoramic views of the entire coastline. The lighthouse is perched on a mantle on the southern side. Visitors will also find an observation pedestal on this lighthouse. From this specific spot, they can enjoy the views of Poovar at one side, and the famous Beemapalli mosque from the other.",
+    "visited" : 1
+  },
+{
+    "description" : "The National War Museum at Pune is an ode to the brave sons of the Motherland who devoted and sacrificed their lives serving her. The memorial at the museum remembers the soldiers and acknowledges them for their invaluable contribution to post-independence wars. A large part of the structure is dedicated to imparting insights on the Kargil War. This museum was built in 1997. It was built by the citizens of Pune who formed a war memorial fund to keep it financially stable. A visit to the museum is surely going to bring your patriotic side to the surface and remind you that freedom should not be taken for granted.",
+    "howtoreach" : "The National War Museum is located at Ghorpadi in the Pune Cantonment area which is 4 km from Central Pune. This area is well connected by road. Hence, going by road to the Prince of Wales Drive in Ghorpadi is the best option.",
+    "image" : "",
+    "latitude" : "5.5450",
+    "longitude" : "7.4862",
+    "name" : "National War Museum",
+    "ratings" : 5,
+    "specification" : "Museum",
+    "view" : "The National War Museum occupies the 25-feet of land and has beautiful pillars everywhere. The museum is impeccably clean and maintained by the soldiers. Also, there is a paintball range where the civilians can try their hand at shooting under the supervision of the officers appointed and that too on a nominal fee of INR 50. A huge amount of INR 32,00,000 was given by Pune Cantonment Board for renovation and upkeep purposes of the National War Museum. The Board also plans to have a new lawn, better landscaping and paving paths for the visitors keeping in mind the increased footfall and convenience factor.",
+    "visited" : 1
+  },
+{
+    "description" : "Located in the vicinity of Chanakyapuri, the Rail Museum aims to preserve the 163 years old railway heritage of India. Popularly known as the National Railway Museum, the museum is spread over 10 acres of land and houses some fantabulous railway memorabilia. Established on 1st of February, 1977, the Rail Museum possesses an exciting collection of around 100 real size exhibits of Indian railways both working and static, antiques, furniture and the like. A few dummy specimen also offer rides to both adults and kids. Other than the vast outdoor which houses the very famous ‘Fairy Queen’- the oldest working steam locomotive, now the museum has also facilitated 3D virtual train ride, steam loco stimulator and an indoor gallery.",
+    "howtoreach" : "Delhi is a state well connected through metro and state-run buses. The nearest metro station to Rail Museum is Jor Bagh Metro, situated on the yellow line. The museum is just about 2 kms from the metro; you can either hire a local or a battery run rickshaw. You can also book a taxi cab for a more comfortable journey. Alternatively, you can travel in one of the buses which will be relatively economical.",
+    "image" : "",
+    "latitude" : "11.2994",
+    "longitude" : "76.9349",
+    "name" : "Rail Museum",
+    "ratings" : 5,
+    "specification" : "Museum",
+    "view" : "Among the umpteen life-size exhibits of rails and engines, here’s listing some popular ones displayed at the Rail Museum-
+1. Fairy Queen- The oldest working steam locomotive.
+2. Patiala State Monorail- Originally built in 1907, the train consists of a track of single rail. Renovated and restored in 1927, it is not in running condition.
+3. Fire Engine- Built by John Morris and Sons Ltd., there are just two Morris-Belsize engines known to exist till date, one of which is showcased here. The other one is preserved at Whitewebbs Museum of Transport, Clay Hill, London.
+4. Saloon of Prince of Wales- Built in the honour of Prince Wales’ visit to India.
+5. Saloon of Maharaja of Holkar- Built in the honour of the Maharaja of Indore.",
+    "visited" : 1
+  },
+

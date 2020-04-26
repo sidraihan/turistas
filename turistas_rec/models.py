@@ -11,20 +11,20 @@ class Place(models.Model):
     specification = models.ManyToManyField('Category',related_name='description')
     longitude = models.DecimalField(max_digits=30, decimal_places=6)
     latitude = models.DecimalField(max_digits=30, decimal_places=6)
-    howtoreach = models.CharField(default='nil',max_length=100,null=False)
+    howtoreach = models.CharField(default='nil',max_length=1000,null=False)
     ratings = models.IntegerField(default=0)
     visited = models.IntegerField(default=0)
-    view = models.CharField(default='nil',max_length=100,null=False)
-    description = models.CharField(default='nil',max_length=100,null=False)
+    view = models.CharField(default='nil',max_length=1000,null=False)
+    description = models.CharField(default='nil',max_length=1000,null=False)
     image = models.ImageField(default='images/sample.jpg',upload_to=None, height_field=None, width_field=None, max_length=100)
-
-
     def __str__(self):
-        return str(self.name)
+        return "{}-{}".format(self.name,self.ratings)
 
 
 class Review(models.Model):
     place_ref = models.ForeignKey('Place',on_delete=models.CASCADE,null=True)
+    sent = models.IntegerField(default=0)
+    #email = models.CharField(default='nil',max_length=40,null=True)
     review_text = models.CharField(max_length=400)
     def __str__(self):
         return str(self.place_ref.name+" : "+self.review_text)
