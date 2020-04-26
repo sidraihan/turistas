@@ -70,4 +70,6 @@ for rui in test_orgi:
         rui_hat = X[a, b]
     rui[3] = rui_hat
 
-np.savetxt('bpr_result', test_orgi, fmt='%.2f')
+#np.savetxt('bpr_result', test_orgi, fmt='%.2f')
+
+return render('sidraihan.pythonanywhere.com/places')
