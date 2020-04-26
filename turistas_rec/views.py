@@ -16,7 +16,7 @@ from django.views.generic import TemplateView
 
 ''' class ListPlacesView(generics.ListAPIView):
 
-    queryset = Place.objects.all()
+    queryset = Place.objects.all()[0:3]
     serializer_class = PlaceSerializer
 
 # Create your views here.
